@@ -1,4 +1,4 @@
-# Árvore de Merkle
+# Arvor de Merkle
 
 A árvore de Merkle te permite provar criptograficamente que um elemento está contido
 
